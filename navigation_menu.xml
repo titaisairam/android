@@ -1,0 +1,18 @@
+        <?xml version="1.0" encoding="utf-8"?>
+        <menu xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            tools:showIn="nv"
+            >
+
+            <options android:id="@+id/home"
+                android:title="Home"/>
+            <options android:id="@+id/team"
+                android:title="Team"/>
+            <options android:id="@+id/images"
+                android:title="Images"/>
+            <options android:id="@+id/audit"
+                android:title="Audit"/>
+            <options android:id="@+id/settings"
+                android:title="Settings"/>
+          </menu>
